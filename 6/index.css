@@ -1,0 +1,233 @@
+.luxaorg-pixelate-windows-xp-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    object-fit: cover;
+}
+
+.ccadp-vdeo-child {
+    position: absolute;
+    top: 1048px;
+    left: calc(50% - 960px);
+    background-color: #c7c7c7;
+    width: 1920px;
+    height: 120px;
+}
+
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #c7c7c7;
+    width: 425px;
+    height: 120px;
+}
+
+.group-item {
+    position: absolute;
+    top: 33px;
+    left: 30px;
+    border-radius: 50%;
+    background-color: #c7c7c7;
+    width: 66px;
+    height: 66px;
+}
+
+.group-inner {
+    position: absolute;
+    top: 43px;
+    left: calc(50% - 101.5px);
+    background-color: #c7c7c7;
+    width: 258px;
+    height: 46px;
+}
+
+.rectangle-parent {
+    position: absolute;
+    top: 1048px;
+    left: 0px;
+    width: 425px;
+    height: 120px;
+}
+
+.ccadp-vdeo-item {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    background-color: rgba(104, 104, 104, 0.8);
+    width: 1920px;
+    height: 1172px;
+}
+
+.image-4-icon {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 1920px;
+    height: 1081px;
+    object-fit: cover;
+}
+
+.ccadp-vdeo-inner {
+    position: absolute;
+    top: 1077px;
+    left: 0px;
+    background-color: #0278d8;
+    width: 1920px;
+    height: 97px;
+}
+
+.group-icon {
+    position: absolute;
+    height: 4.33%;
+    width: 11.67%;
+    top: 93.71%;
+    right: 86.35%;
+    bottom: 1.97%;
+    left: 1.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 245px;
+    left: 423px;
+    border-radius: 75px;
+    background-color: #ffe696;
+    width: 1073px;
+    height: 686px;
+}
+
+.ccadp-vdeo-child1 {
+    position: absolute;
+    top: 245px;
+    left: 423px;
+    border-radius: 75px 75px 0px 0px;
+    background-color: #c7c7c7;
+    width: 1073px;
+    height: 85px;
+}
+
+.ou-arraste-os {
+    position: absolute;
+    top: 791px;
+    left: calc(50% - 224px);
+    display: inline-block;
+    width: 426px;
+    height: 65px;
+}
+
+.grave-um-vdeo-container {
+    position: absolute;
+    top: 401px;
+    left: calc(50% - 437px);
+    text-align: left;
+    display: inline-block;
+    width: 893px;
+    height: 111px;
+}
+
+.ellipse-icon {
+    position: absolute;
+    top: 538px;
+    left: 825px;
+    width: 248px;
+    height: 248px;
+    opacity: 0.75;
+    mix-blend-mode: normal;
+}
+
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 45.03px;
+    background-color: #7b7b7b;
+    width: 19.6px;
+    height: 109.6px;
+}
+
+.group-child2 {
+    position: absolute;
+    top: 64.61px;
+    left: 0px;
+    background-color: #7b7b7b;
+    width: 19.6px;
+    height: 109.6px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+}
+
+.rectangle-group {
+    position: absolute;
+    top: 606.95px;
+    left: 894px;
+    width: 109.6px;
+    height: 109.6px;
+}
+
+.group-child3 {
+    position: absolute;
+    height: 85.71%;
+    width: 16.78%;
+    top: 5.73%;
+    right: -0.03%;
+    bottom: 8.55%;
+    left: 83.25%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    left: 73.97px;
+    border-radius: 3px;
+    background-color: #c7c7c7;
+    border: 4px solid #000;
+    box-sizing: border-box;
+    width: 36.8px;
+    height: 35px;
+}
+
+.line-div {
+    position: absolute;
+    top: 19.08px;
+    left: 0px;
+    border-top: 4px solid #000;
+    box-sizing: border-box;
+    width: 41.4px;
+    height: 4px;
+}
+
+.rectangle-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 110.7px;
+    height: 35px;
+}
+
+.group-parent {
+    position: absolute;
+    height: 2.98%;
+    width: 9.31%;
+    top: 23.08%;
+    right: 24.7%;
+    bottom: 73.94%;
+    left: 65.99%;
+}
+
+.ccadp-vdeo {
+    width: 100%;
+    position: relative;
+    height: 1174px;
+    text-align: center;
+    font-size: 36px;
+    color: #000;
+    font-family: 'Roboto Mono';
+}
